@@ -257,5 +257,10 @@
       <groupId>org.apache.beam</groupId>
       <artifactId>beam-sdks-java-extensions-python</artifactId>
     </dependency>
+    <dependency>
+      <groupId>com.google.cloud</groupId>
+      <artifactId>google-cloud-aiplatform</artifactId>
+      <version>3.41.0</version>
+    </dependency>
   </dependencies>
 </project>
